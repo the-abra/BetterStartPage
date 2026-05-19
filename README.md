@@ -4,6 +4,11 @@ A minimalist, high-performance, and privacy-focused browser start page. BetterSt
 
 Live Demonstration: [the-abra.github.io/BetterStartPage](https://the-abra.github.io/BetterStartPage)
 
+
+<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/14bb49df-89ca-4124-84dc-12091d1e1f5d" />
+
+---
+
 ## Key Features
 
 ### Portability and Privacy
@@ -51,7 +56,3 @@ Live Demonstration: [the-abra.github.io/BetterStartPage](https://the-abra.github
 - Storage: IndexedDB (database: hp-data) for settings, shortcuts, and binary file blobs.
 - Favicons: Resolved via Google S2 Favicon API for high-resolution, service-specific icons.
 - Styling: Modern CSS with glassmorphism effects, hardware-accelerated filters, and responsive design.
-
-## License
-
-This project is open-source and available under the MIT License.
